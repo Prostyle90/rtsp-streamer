@@ -1,0 +1,13 @@
+# Generated runtime logs and temporary media server configuration
+*.log
+streamer_mediamtx.yml
+
+# Build output and legacy PyInstaller artifacts
+dist/
+build/
+__pycache__/
+
+# Local diagnostic images and test binaries
+audio_white.png
+sub_white.png
+ui_check.png

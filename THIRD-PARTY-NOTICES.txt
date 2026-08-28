@@ -1,0 +1,15 @@
+Desktop Streamer distribution
+
+FFmpeg
+  Version: N-117068-g0c9fe2b232-20240918
+  Project: https://ffmpeg.org/
+  License: GPL v3 or later (this build enables GPL components, including libx264).
+  Source and license information: https://ffmpeg.org/legal.html
+
+MediaMTX
+  Version: v1.9.1
+  Project: https://github.com/bluenviron/mediamtx
+  License: MIT
+
+AudioLoopback.exe and DesktopStreamer.exe
+  Project-specific binaries from the DesktopShare project.
